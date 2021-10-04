@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 1468.0, 713.0 ],
+		"rect" : [ 41.0, 78.0, 1468.0, 713.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -89,7 +89,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1169.0, 756.0, 150.0, 158.0 ],
+					"patching_rect" : [ 1169.0, 756.0, 151.0, 158.0 ],
 					"text" : "The formula parts will run itself and change the varieble in both even and odd display parts together.\n\n\nAnd their is another signal from main Identification formula to choose which part should be draw this time."
 				}
 
