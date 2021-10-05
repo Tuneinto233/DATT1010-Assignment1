@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 41.0, 84.0, 1468.0, 713.0 ],
+		"rect" : [ 27.0, 84.0, 1468.0, 713.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -42,12 +42,12 @@
 				"box" : 				{
 					"fontsize" : 20.0,
 					"id" : "obj-188",
-					"linecount" : 5,
+					"linecount" : 7,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 861.076925277709961, 1478.0, 519.0, 121.0 ],
-					"text" : "PS. \n1.If open this project in 1920x1080 resolution, it should be perfectly arranged.\n2.This project has a Github repo:\nhttps://github.com/Tuneinto233/DATT1010-Assignment1",
+					"patching_rect" : [ 861.076925277709961, 1478.0, 526.0, 167.0 ],
+					"text" : "PS. \n1.If open this project in 1920x1080 resolution, it should be perfectly arranged.\n2.This project has a Github repo:\nhttps://github.com/Tuneinto233/DATT1010-Assignment1\n3.Creator: Warren (Zhuan Wang, He/Him) York University\n   Student ID: 218519454",
 					"textcolor" : [ 1.0, 0.0, 0.682352941176471, 1.0 ]
 				}
 
